@@ -1,0 +1,15 @@
+Model: Random Forest
+Dataset: C:\Users\sai siddharth\Downloads\tbp\water_pipeline_ai\dataset\water_pipeline_dataset.csv
+Test Samples: 3800
+
+               precision    recall  f1-score   support
+
+ABNORMAL_FLOW     0.9950    0.9862    0.9906       800
+     BLOCKAGE     1.0000    0.9950    0.9975       800
+      LEAKAGE     0.9889    1.0000    0.9944       800
+       NORMAL     0.9980    0.9970    0.9975      1000
+      NO_FLOW     0.9926    1.0000    0.9963       400
+
+     accuracy                         0.9953      3800
+    macro avg     0.9949    0.9957    0.9952      3800
+ weighted avg     0.9953    0.9953    0.9953      3800

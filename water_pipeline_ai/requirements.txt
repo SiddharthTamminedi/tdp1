@@ -1,0 +1,18 @@
+# Core IoT Serial Communication
+pyserial>=3.5
+
+# Numerical Computing & Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Machine Learning & Serialization
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Visualization & Scientific Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Real-Time Telemetry Dashboard
+streamlit>=1.30.0
+
